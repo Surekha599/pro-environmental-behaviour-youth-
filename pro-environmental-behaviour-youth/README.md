@@ -1,8 +1,8 @@
-# 🌍 Understanding Pro-Environmental Behaviour Among the Youth — Delhi Study
+#  Understanding Pro-Environmental Behaviour Among the Youth : Delhi Study
 
 A complete, reproducible data project that studies **what drives young people to
 act pro-environmentally** by combining **open-source environmental data** (Layer A)
-with a **behaviour survey** (Layer B) of **35 students living in Delhi** — 20
+with a **behaviour survey** (Layer B) of 35 students living in Delhi 20
 Delhi natives and 15 students who moved from other Indian states to study there.
 
 > 📄 Full write-up: [`PROJECT_REPORT.md`](PROJECT_REPORT.md)
