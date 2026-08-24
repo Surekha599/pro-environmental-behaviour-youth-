@@ -1,0 +1,8 @@
+# Core analysis libraries
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.17.1
+
+# Plotting
+matplotlib==3.10.9
+seaborn==0.13.2

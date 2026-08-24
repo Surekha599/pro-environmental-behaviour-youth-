@@ -1,0 +1,36 @@
+respondent_id,age,gender,is_migrant,origin_state,years_in_delhi,state_pm25,aware,concern,urgent,attitude,norm,control,intention,waste,reusable,transport,ewaste,activity,action_score,gap
+D01,19,M,0,Delhi,since birth,98,4,4.0,5,2,3,4,3.25,Yes,No,Yes,Sometimes,No,2.5,0.75
+D02,22,M,0,Delhi,since birth,98,3,4.0,4,4,4,4,4.0,No,Yes,Yes,Sometimes,Yes,3.5,0.5
+D03,23,F,0,Delhi,since birth,98,4,3.67,4,4,5,4,4.5,No,Sometimes,Yes,Sometimes,No,2.0,2.5
+D04,22,F,0,Delhi,since birth,98,4,4.67,5,3,5,4,3.75,Yes,Yes,Yes,Sometimes,Yes,4.5,-0.75
+D05,22,F,0,Delhi,since birth,98,4,3.67,3,3,4,4,3.75,Yes,Sometimes,Yes,No,No,2.5,1.25
+D06,19,F,0,Delhi,since birth,98,5,4.0,4,4,5,2,3.75,Yes,No,Yes,Sometimes,Yes,3.5,0.25
+D07,22,F,0,Delhi,since birth,98,5,4.67,4,3,3,3,3.25,Sometimes,Yes,Yes,No,Yes,3.5,-0.25
+D08,23,F,0,Delhi,since birth,98,4,3.67,4,4,5,4,4.25,Yes,Yes,No,Sometimes,Sometimes,3.0,1.25
+D09,20,M,0,Delhi,since birth,98,3,3.67,3,4,4,4,3.75,Yes,No,No,No,Yes,2.0,1.75
+D10,19,M,0,Delhi,since birth,98,4,4.33,4,3,5,5,4.25,Yes,Yes,No,Yes,Yes,4.0,0.25
+D11,23,M,0,Delhi,since birth,98,4,3.33,4,3,3,4,3.75,Yes,Yes,Yes,Yes,Yes,5.0,-1.25
+D12,22,F,0,Delhi,since birth,98,4,3.67,3,4,5,5,4.25,Yes,Yes,No,No,Yes,3.0,1.25
+D13,20,F,0,Delhi,since birth,98,5,3.67,2,5,3,3,4.0,Yes,Yes,Yes,Sometimes,Yes,4.5,-0.5
+D14,19,F,0,Delhi,since birth,98,3,3.67,4,3,4,5,4.0,Yes,Sometimes,Yes,Sometimes,Sometimes,3.5,0.5
+D15,23,M,0,Delhi,since birth,98,4,3.67,5,3,3,4,3.5,Yes,Yes,Yes,Sometimes,Sometimes,4.0,-0.5
+D16,22,F,0,Delhi,since birth,98,5,4.33,5,4,3,4,4.0,Yes,Yes,Yes,No,Sometimes,3.5,0.5
+D17,22,F,0,Delhi,since birth,98,5,4.67,5,5,5,2,4.0,No,No,Yes,Sometimes,Yes,2.5,1.5
+D18,23,M,0,Delhi,since birth,98,2,3.33,4,5,2,3,3.5,Yes,Yes,Sometimes,Sometimes,Yes,4.0,-0.5
+D19,21,F,0,Delhi,since birth,98,4,4.33,5,4,5,3,3.75,Yes,No,Yes,Sometimes,Sometimes,3.0,0.75
+D20,23,F,0,Delhi,since birth,98,5,3.33,3,3,4,4,3.75,No,Sometimes,Yes,Yes,Yes,3.5,0.25
+M01,23,M,1,Uttar Pradesh,3 year(s),88,5,4.33,4,4,5,2,3.5,Sometimes,No,Sometimes,Yes,No,2.0,1.5
+M02,20,F,1,Haryana,1 year(s),82,3,3.0,3,4,5,5,4.25,Sometimes,Sometimes,Yes,No,Sometimes,2.5,1.75
+M03,24,F,1,Bihar,1 year(s),80,4,4.0,5,5,4,4,4.25,Yes,Yes,Yes,Sometimes,Yes,4.5,-0.25
+M04,21,F,1,Punjab,2 year(s),78,2,2.67,3,5,5,3,4.25,No,No,Sometimes,No,No,0.5,3.75
+M05,23,M,1,Rajasthan,1 year(s),66,4,3.67,4,4,4,4,4.0,Sometimes,Sometimes,Sometimes,No,Yes,2.5,1.5
+M06,24,M,1,Madhya Pradesh,3 year(s),58,4,3.33,4,4,5,4,4.5,No,No,Yes,Yes,Sometimes,2.5,2.0
+M07,20,M,1,West Bengal,3 year(s),60,3,3.33,4,4,3,5,3.5,Yes,No,Sometimes,Sometimes,No,2.0,1.5
+M08,21,M,1,Odisha,1 year(s),54,5,4.33,4,3,3,3,3.25,Yes,Yes,Yes,Sometimes,Yes,4.5,-1.25
+M09,21,M,1,Jharkhand,2 year(s),57,3,3.33,3,5,4,4,3.75,No,Sometimes,No,No,Yes,1.5,2.25
+M10,24,F,1,Uttarakhand,2 year(s),52,4,4.0,5,2,4,3,3.5,No,Yes,Yes,No,No,2.0,1.5
+M11,24,F,1,Assam,2 year(s),45,4,4.0,5,4,4,3,3.75,No,Sometimes,Yes,Sometimes,Yes,3.0,0.75
+M12,22,M,1,Kerala,3 year(s),38,4,3.67,3,5,4,4,4.25,No,Yes,Yes,Sometimes,Yes,3.5,0.75
+M13,22,M,1,Tamil Nadu,1 year(s),40,4,4.33,4,4,3,4,3.75,Yes,Yes,No,Yes,Yes,4.0,-0.25
+M14,22,M,1,Maharashtra,3 year(s),46,5,4.33,4,5,4,5,4.25,Yes,Yes,No,Yes,Yes,4.0,0.25
+M15,20,F,1,Chhattisgarh,1 year(s),62,2,2.67,3,5,4,3,4.0,Sometimes,Yes,Yes,Sometimes,Sometimes,3.5,0.5

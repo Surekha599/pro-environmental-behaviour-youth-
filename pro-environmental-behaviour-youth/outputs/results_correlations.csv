@@ -1,0 +1,5 @@
+,r,p
+concern vs action_score,0.335,0.049
+intention vs action_score,-0.097,0.579
+state_pm25 vs concern,0.104,0.554
+state_pm25 vs action_score,0.108,0.536
